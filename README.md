@@ -46,7 +46,6 @@
         </div>
       </div>
       <div class="cover-image" style="background-image : url('https://upload.wikimedia.org/wikipedia/commons/1/19/Old_State_House_Boston_2009f.JPG')"></div>
-      <div class="container"></div>
     </div>
     <div class="section">
       <div class="container">
